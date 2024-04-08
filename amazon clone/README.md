@@ -1,7 +1,8 @@
-```markdown
-# Amazon Clone
+
+## Amazon Clone
 
 This is a simple Amazon clone project built with HTML and CSS. It replicates the basic layout and design of the Amazon website using only front-end technologies.
+
 
 ## Table of Contents
 
@@ -48,6 +49,14 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
+
+## Outcome
+
+1]
+![Amazon Home Page](pt1.png)
+
+2]
+![Amazon Home Page](pt2.png)
 
 ## License
 
